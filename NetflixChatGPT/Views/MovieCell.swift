@@ -37,6 +37,6 @@ class MovieCell: UICollectionViewCell {
     }
     
     private func configureUI() {
-        
+        print("This will handle the configuration oif the cells")
     }
 }
