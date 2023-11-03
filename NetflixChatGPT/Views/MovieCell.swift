@@ -35,4 +35,8 @@ class MovieCell: UICollectionViewCell {
             imageView.trailingAnchor.constraint(equalTo: contentView.trailingAnchor)
         ])
     }
+    
+    private func configureUI() {
+        
+    }
 }
