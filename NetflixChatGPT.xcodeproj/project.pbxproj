@@ -20,6 +20,7 @@
 		1C3FA9212AD5106A004810B8 /* TabBarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FA9202AD5106A004810B8 /* TabBarItem.swift */; };
 		1C3FA9242AD5118A004810B8 /* NewHotViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FA9232AD5118A004810B8 /* NewHotViewController.swift */; };
 		1C3FA9272AD511F3004810B8 /* MyNetflixViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FA9262AD511F3004810B8 /* MyNetflixViewController.swift */; };
+		1CCFD4432AF4C4B400A54D18 /* WireMovie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCFD4422AF4C4B400A54D18 /* WireMovie.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		1C3FA9202AD5106A004810B8 /* TabBarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarItem.swift; sourceTree = "<group>"; };
 		1C3FA9232AD5118A004810B8 /* NewHotViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewHotViewController.swift; sourceTree = "<group>"; };
 		1C3FA9262AD511F3004810B8 /* MyNetflixViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNetflixViewController.swift; sourceTree = "<group>"; };
+		1CCFD4422AF4C4B400A54D18 /* WireMovie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WireMovie.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				1C3FA9182AD4C65F004810B8 /* MovieCategory.swift */,
+				1CCFD4422AF4C4B400A54D18 /* WireMovie.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				1C3FA9122AD4B4A9004810B8 /* NetflixHomeViewController.swift in Sources */,
 				1C3FA8FC2AD4B463004810B8 /* AppDelegate.swift in Sources */,
 				1C3FA91F2AD5100B004810B8 /* MainTabController.swift in Sources */,
+				1CCFD4432AF4C4B400A54D18 /* WireMovie.swift in Sources */,
 				1C3FA91B2AD4CF4F004810B8 /* SectionHeader.swift in Sources */,
 				1C3FA9192AD4C65F004810B8 /* MovieCategory.swift in Sources */,
 				1C3FA9172AD4BA20004810B8 /* MovieCell.swift in Sources */,

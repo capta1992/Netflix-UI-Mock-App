@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+
+struct WireMovie: Codable {
+    var name: String
+}
